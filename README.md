@@ -1,5 +1,6 @@
 # Beta-decay-analysis-using-Lombscargle-periodogram-
 Beta decay analysis using Lombscargle periodogram  for PTB and BNL datasets 
+[arXiv:1912.06970](https://arxiv.org/abs/1912.06970)
 
 Recently Pomme et al. did an analysis of Cl(36) radioactive decay data from 
 measurements at the Physikalisch-Technische Bundesanstalt  (PTB), in order to verify the claims by  Sturrock and collaborators of an influence on beta-decay rates measured at Brookhaven National Lab (BNL) due to the rotation-induced modulation of the  solar neutrino flux.  Their analysis excluded any sinusoidal modulations in the frequency range from 0.2-20/year.
